@@ -1,4 +1,4 @@
-# 🚗 Automotive Parts — Pricing & Demand Forecasting
+# 🚗 Automotive Parts - Pricing & Demand Forecasting
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange?logo=xgboost&logoColor=white)
@@ -7,13 +7,13 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-> **End-to-end demand forecasting and dynamic pricing pipeline for automotive aftermarket parts — combining time series modelling, price elasticity analysis, and XGBoost-based pricing optimisation.**
+> **End-to-end demand forecasting and dynamic pricing pipeline for automotive aftermarket parts - combining time series modelling, price elasticity analysis, and XGBoost-based pricing optimisation.**
 
 ---
 
 ##  Overview
 
-Automotive aftermarket businesses carry thousands of SKUs across diverse categories. Pricing them correctly — and forecasting demand accurately — directly impacts revenue, inventory efficiency, and customer satisfaction.
+Automotive aftermarket businesses carry thousands of SKUs across diverse categories. Pricing them correctly - and forecasting demand accurately - directly impacts revenue, inventory efficiency, and customer satisfaction.
 
 This project builds a production-ready pipeline that:
 1. **Forecasts demand** at the SKU level using Facebook Prophet and XGBoost
@@ -26,9 +26,9 @@ This project builds a production-ready pipeline that:
 ##  Business Problem
 
 Automotive parts retailers face three pricing challenges:
-- **Demand volatility** — seasonal patterns, vehicle age cycles, and promotions create complex demand signals
-- **Price sensitivity varies by category** — consumables (oil filters, brake pads) behave differently from discretionary accessories
-- **Competitor pricing pressure** — static pricing leaves revenue on the table
+- **Demand volatility** - seasonal patterns, vehicle age cycles, and promotions create complex demand signals
+- **Price sensitivity varies by category** - consumables (oil filters, brake pads) behave differently from discretionary accessories
+- **Competitor pricing pressure** - static pricing leaves revenue on the table
 
 This pipeline addresses all three with a data-driven, ML-powered approach.
 
@@ -72,9 +72,9 @@ Raw Sales Data
 | Metric | Baseline | Model |
 |--------|----------|-------|
 | Demand Forecast MAPE | 18.3% | **6.2%** |
-| Price Elasticity R² | — | **0.84** |
-| Revenue Uplift (simulated) | — | **+12.4%** |
-| Anomaly Detection Precision | — | **91%** |
+| Price Elasticity R² | - | **0.84** |
+| Revenue Uplift (simulated) | - | **+12.4%** |
+| Anomaly Detection Precision | - | **91%** |
 
 ---
 
@@ -143,7 +143,7 @@ jupyter notebook notebooks/pricing_demand_forecasting.ipynb
 
 ##  Author
 
-**Shalmalee Sharma** — PhD Astrophysics | Senior Data Scientist  
+**Shalmalee Sharma** - PhD Astrophysics | Senior Data Scientist  
 📍 Melbourne, Australia  
 🔗 [LinkedIn](https://linkedin.com/in/shalmalee-kapse) · [GitHub](https://github.com/Shalmalee15)
 
