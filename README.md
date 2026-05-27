@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Automotive aftermarket businesses carry thousands of SKUs across diverse categories. Pricing them correctly — and forecasting demand accurately — directly impacts revenue, inventory efficiency, and customer satisfaction.
 
@@ -23,7 +23,7 @@ This project builds a production-ready pipeline that:
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Automotive parts retailers face three pricing challenges:
 - **Demand volatility** — seasonal patterns, vehicle age cycles, and promotions create complex demand signals
@@ -34,7 +34,7 @@ This pipeline addresses all three with a data-driven, ML-powered approach.
 
 ---
 
-## 💡 Solution Architecture
+##  Solution Architecture
 
 ```
 Raw Sales Data
@@ -67,7 +67,7 @@ Raw Sales Data
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | Metric | Baseline | Model |
 |--------|----------|-------|
@@ -78,7 +78,7 @@ Raw Sales Data
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
@@ -92,7 +92,7 @@ Raw Sales Data
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 automotive-pricing-forecasting/
@@ -115,7 +115,7 @@ automotive-pricing-forecasting/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Clone the repository
@@ -131,7 +131,7 @@ jupyter notebook notebooks/pricing_demand_forecasting.ipynb
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - [ ] Real-time competitor price scraping and benchmarking
 - [ ] Deploy as REST API on AWS SageMaker
@@ -141,7 +141,7 @@ jupyter notebook notebooks/pricing_demand_forecasting.ipynb
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Shalmalee Sharma** — PhD Astrophysics | Senior Data Scientist  
 📍 Melbourne, Australia  
@@ -149,6 +149,6 @@ jupyter notebook notebooks/pricing_demand_forecasting.ipynb
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
